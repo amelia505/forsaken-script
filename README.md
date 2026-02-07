@@ -45,3 +45,6 @@ Dependencies: Requires a compatible environment for script execution.
 Encountered an unexpected behavior? Please report it via the repository's Issues section.
 
 This project is maintained for research into interactive software environments. Always respect the terms of service of the platforms you engage with.
+
+# 🔍 SEO Keywords
+roblox pc executor, roblox script executor, roblox script launcher, roblox executor gui, executor for roblox pc, roblox attach tool, roblox modding utility, external executor roblox, roblox script runner, roblox safe script assistant, forsaken script roblox
